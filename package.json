@@ -1,6 +1,6 @@
 {
   "name": "react-pdf-highlighter",
-  "version": "2.0.1",
+  "version": "2.1.2",
   "description": "Set of React components for PDF annotation",
   "main": "lib/index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.10",
-    "pdfjs-dist": "2.0.489",
+    "pdfjs-dist": "2.0.943",
     "react-pointable": "^1.1.1",
     "react-rnd": "^7.1.5"
   },
